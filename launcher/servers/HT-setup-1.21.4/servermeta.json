@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/aa990/OneDrive/%EB%AC%B8%EC%84%9C/HT-setup/Nebula-master/root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "힐링타운 (Minecraft 1.21.4)",
+    "description": "힐링타운 서버 전용런처 1.21.4 (Fabric v0.16.14)",
+    "icon": "https://raw.githubusercontent.com/MrJimin/HealingTown/main/launcher/profil_server.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.16.14"
+  },
+  "untrackedFiles": []
+}
