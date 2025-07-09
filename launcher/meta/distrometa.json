@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///C:/Users/aa990/OneDrive/%EB%AC%B8%EC%84%9C/HT-setup/Nebula-master/root/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/aa990/HT-setup/nebulaworkspace/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {

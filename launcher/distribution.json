@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "HT-setup-1.21.4",
+      "id": "HealingTown-1.21.4",
       "name": "힐링타운 (Minecraft 1.21.4)",
       "description": "힐링타운 서버 전용런처 1.21.4 (Fabric v0.16.14)",
       "icon": "https://raw.githubusercontent.com/MrJimin/HealingTown/main/launcher/profil_server.png",
@@ -39,7 +39,7 @@
               "type": "VersionManifest",
               "artifact": {
                 "size": 2849,
-                "MD5": "6b03d443940cf784ccab1e9e713d705c",
+                "MD5": "261a60880345561c098f93350e15dd0d",
                 "url": "https://raw.githubusercontent.com/MrJimin/HealingTown/main/launcher/repo/versions/1.21.4-fabric-0.16.14/1.21.4-fabric-0.16.14.json"
               }
             },
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2148367,
-            "url": "https://raw.githubusercontent.com/MrJimin/HealingTown/main/launcher/servers/HT-setup-1.21.4/fabricmods/required/fabric-api-0.119.3+1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/MrJimin/HealingTown/main/launcher/servers/HealingTown-1.21.4/fabricmods/required/fabric-api-0.119.3+1.21.4.jar",
             "MD5": "179994db46a00373614c47fb669d1dd3"
           }
         }
